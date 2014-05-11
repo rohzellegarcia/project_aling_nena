@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Aling Nena's: History</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="/css/admin.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand">Aling Nena's</a>
+        </div>
+	<div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+		<li><a href="/">Home</a></li>
+		<li><a href="/store">Store</a></li>
+		<li><a href="/about">History</a><li>
+		<li><a href="/admin">Admin</a><li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+	<h1 style="margin-left: 150px">History of Aling Nena's</h1>
+		<div style="font-size: 15; margin-left: 300px; margin-right: 300px; text-align: justify;">
+			
+			<p>Aling Nena's store started when she was young, a dream of startingher own business filled her young mind. As she grew up, her dreams were met with trials, for when she reached an appropriate age to start her own business the economy faced too many rises and fallings; the economy was too unstable. Thinking it was too dangerous to start her own business, she decided to put her dream on hold to pursue a more stable career path.</p><br/>
+			<p> But everyone around her could see where her passion really lies, and when her daughter had finally graduated from school, a stable career path of her own, she decided to surprise Aling Nena with a small store.</p><br/>
+			<img src="url.jpeg"><br/>
+			<br/><p>Because of her how personable Aling Nena is and how kind she is to her customers, she has gained a reputation in their neibourhood. The number of customers that visit her store have increase and with a little help from her family, she was able to expand her store.</p><br/>
+			<img src="1.jpg"><br/>
+			<br/><p>Though her business has continued to grow, she remains humble and kind to her customers.</p>
+		</div>
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+  </body>
+</html>
